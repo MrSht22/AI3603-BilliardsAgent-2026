@@ -1,6 +1,6 @@
 # AI3603-Billiards: Agent-Based Billiards Game
 
-## 项目概述
+## Overview
 This billiards assignment aims to realize the automatic battle of billiard games by writing agents. Project descriptions are provided in `PROJECT_GUIDE.md` and game rules are described in detail in `GAME_RULES.md`. The code and environment configurations for the training and evaluation sections are explained in their respective folders. 
 
 For the final paper presentation, see `report.pdf`.
