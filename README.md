@@ -7,7 +7,7 @@ For the final paper presentation, see `report.pdf`.
 
 ---
 
-The following is the content of the original Billiards Project README file:
+The following is the content of the original Billiards Project `README.md`:
 
 ---
 
