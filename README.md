@@ -1,7 +1,20 @@
-# AI3603-Billiards
+# AI3603-Billiards: Agent-Based Billiards Game
+
+## 项目概述
+This billiards assignment aims to realize the automatic battle of billiard games by writing agents. Project descriptions are provided in `PROJECT_GUIDE.md` and game rules are described in detail in `GAME_RULES.md`. The code and environment configurations for the training and evaluation sections are explained in their respective folders. 
+
+For the final paper presentation, see `report.pdf`.
+
+---
+
+The following is the content of the original Billiards Project README file:
+
+---
+
+## AI3603-Billiards
 AI3603课程台球大作业
 
-## 关键文件说明
+### 关键文件说明
 
 | 文件 | 作用 | 在最终测试中是否可修改 |
 |------|------|-----------|
@@ -11,7 +24,7 @@ AI3603课程台球大作业
 | `PROJECT_GUIDE.md` | 项目详细指南 | 📖 参考文档 |
 | `GAME_RULES.md` | 游戏规则说明 | 📖 参考文档 |
 
-对作业内容的视频说明：
+对内容的视频说明：
 说明.mp4：https://pan.sjtu.edu.cn/web/share/da9459405eac6252d01c249c3bcb989f
 供大家参考，以文字说明为准。
 
